@@ -1,0 +1,14 @@
+.panda-bg {
+    background-color: #fceae8;
+}
+
+.catagories img {
+    width: 75px;
+}
+
+.car-btn {
+    background-image: linear-gradient(#fdd4a5, #e78659);
+    color: white;
+    font-weight: 400;
+    padding: 10px 20px;
+}
